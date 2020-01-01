@@ -1,0 +1,76 @@
+E:\tcp\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\tcp\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\tcp\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\tcp\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+E:\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+E:\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+E:\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+E:\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+E:\资料\C# 工程\C# 工程\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\stitp\通信资料\c#\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\stitp\myC#\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\TcpServer\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\xiong\Desktop\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.TcpServer.resources
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\xiong\Desktop\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
